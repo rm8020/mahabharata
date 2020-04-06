@@ -33,11 +33,11 @@ Though I have a general understanding of the story but I have never read the com
    * I will need lot of iterations and corrections
    * but this option means I can start immediately and this means I may not loose interest.
    
-  I have choosen Option B just because I can start immidetly and it has more chance of me to continue to have the interest. 
+  I have choosen Option B just because I can start immediately and has more chance of me to continue to have the interest. 
   
 
-  For me the intention is impproving my own understanding of the world by the way of Mahabharata.
-  Mahabharat is the ultimate and the largest EPIC and by no means i can have first draft ready in less than 18 months. I am targeting 2 years months to finish the frist draft.
+For me the intention is impproving my own understanding of the world by the way of Mahabharata.
+Mahabharata is the ultimate and the largest EPIC and by no means i can have first draft ready in less than 18 months. I am targeting 2 years  to finish the first draft.
   
-  Project Start Date: April 06, 2020
-  Target Date For the First Draft: April 05, 2022
+Project Start Date: April 06, 2020
+Target Date For the First Draft: April 05, 2022
