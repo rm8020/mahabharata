@@ -1,5 +1,4 @@
-# mahabharata
-The Story of Mahabharata
+# The Story of Mahabharata
 
 <b>NOTE</b> Editors and Contributors are welcome: I do lots of spelling and grammer mistakes, i type fast but never learned typing hence sometime miss words while i type assuming that the word in in there. 
  
@@ -13,6 +12,7 @@ The repo basically is a collection of the md files. I don't think I expect any c
 
 Hope I will continue this journey
 
+## Enjoy the EPIC - [Table of the Contents](TheStory/toc.md)
 
 ---------
 RM
