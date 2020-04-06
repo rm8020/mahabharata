@@ -13,7 +13,6 @@ The repo basically is a collection of the md files. I don't think I expect any c
 
 Hope I will continue this journey
 
-#h1
 
 ---------
 RM
