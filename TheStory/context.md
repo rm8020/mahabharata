@@ -14,7 +14,7 @@ I am no writer (which you already know by styleo of writing) and I plan to write
 I am a Hindu and Maharbharat is also a sacret text for me especially the Bhagwad Geeta (which is contained in the Bhisma Parv).
 One can say Bhagwad Gita itself is a culmination of all the spiritual knowledge. I am looking forward to reading that part and write about it.
 
-But apart from a sacred text I belive Mahabharata is a wonderful story and at the same time a great teacher. 
+But apart from a sacred text I belive Mahabharata is a wonderful story and at the same time a great teacher.
 
 ## How: What is my method?
 
@@ -36,9 +36,9 @@ Though I have a general understanding of the story but I have never read the com
    * I will need lot of iterations and corrections
    * but this option means I can start immediately and this means I may not loose interest.
 
-I have choosen Option B so that I can start immediately. The option also has a better chance of me to continue to have the interest in the project (I loose interest fast and I chosen a two year project!)
+I have chosen Option B so that I can start immediately. The option also has a better chance of me to continue to have the interest in the project (I loose interest fast and I chosen a two year project!)
 
-For me, the intention is to imrove my own understanding of the world by the way of Mahabharata.
+For me, the intention is to improve my own understanding of the world by the way of Mahabharata.
 Mahabharata is the ultimate and the largest EPIC and by no means I can have first draft ready in less than 18 months. I am targeting 2 years to finish the first draft.
 
 ```
