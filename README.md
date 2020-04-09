@@ -12,7 +12,7 @@ The repo basically is a collection of the md files. I don't think I expect any c
 
 Hope I will continue this journey
 
-## Enjoy the EPIC - [Table of the Contents](TheStory/toc.md)
+## Enjoy the EPIC 
 
 ---------
 RM
